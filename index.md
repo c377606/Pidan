@@ -1,6 +1,6 @@
 ## Welcome to Cooking With Pidan
 
-![image](https://github.com/c377606/Pidan/blob/gh-pages/mapo.png)
+![image](https://raw.githubusercontent.com/c377606/Pidan/gh-pages/mapo.png)
 
 You can use the [editor on GitHub](https://github.com/c377606/Pidan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
