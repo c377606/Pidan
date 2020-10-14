@@ -1,6 +1,6 @@
 # Love Miffy so matcha!
 
-## [Cooking diary](https://raw.githubusercontent.com/c377606/Pidan/gh-pages/Cookingdiary.md)
+## [Cooking diary](file:///Users/apple/Documents/GitHub/Pidan/test.html)
 
 ### Mapo Tofu
 ![image](https://raw.githubusercontent.com/c377606/Pidan/gh-pages/mapo.png)
