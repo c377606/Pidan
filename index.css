@@ -6,16 +6,24 @@ html {
     margin: 0 auto;
     background-color: #ffffff;
     padding: 0 20px 20px 20px;
-    border: 5px solid rgb(80, 68, 68);
+    border: 0px solid #ffffff;
   }
   h1 {
     margin: 0;
     padding: 20px 0;    
     color: rgb(80, 68, 68);
-    text-shadow: 3px 3px 1px black;
   }
 
   p {
     display: block;
     margin: 0 auto;
+  }
+  
+  .flex{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:600px;
+    height:600px;
+    background-color: #ffffff;
   }
