@@ -1,0 +1,32 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 0px;
+  }
+
+h2 {
+    margin: 0;
+    padding: 20px 0;    
+    color: ＃8f8787;
+    font: Acre
+}
+
+h3{
+    margin: 0;
+    padding: 20px 0;    
+    color: ＃8f8787;
+    font: Acre
+}
+
+.flex{
+    display:flex;
+    width:600px;
+    height:600px;
+    background-color:#ffffff;
+  }
+  
+  .flex div{
+    margin:auto;
+  }
