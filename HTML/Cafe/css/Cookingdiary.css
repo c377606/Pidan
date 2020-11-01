@@ -6,6 +6,12 @@ body {
     color: white;
     margin-top: 40px;
     margin-left: 50px;
+    
+}
+
+table {
+    width: 80vw;
+    margin: center;
 }
 
 .name {

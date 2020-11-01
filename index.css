@@ -1,15 +1,27 @@
 
+body {
+    background-image:url("photos/back.png");
+    background-repeat:no-repeat;
+    background-size: 1300px;
+    background-position: center;
+    color: white;
+}
+
+table {
+    height: 100vh;
+}
+
 td {
     font-family: 'Crimson Text', 'Noto Sans TC', sans-serif, serif;
-    color:#818181;
+    color:#a7a7a7;
     text-align: center;
-    padding: 10px;
+    padding: 0px;
+    width: 200px;
 }
 
 a {
     text-decoration:none;
     color: #a0a0a0;
-
 }
 
 a:hover {
